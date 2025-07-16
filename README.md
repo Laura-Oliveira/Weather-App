@@ -8,7 +8,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0.0-purple?style=plastic&logo=kotlin)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)
 
-</div>
+</div> 
 
 <div align="center">
 
