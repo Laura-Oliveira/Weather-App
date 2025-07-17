@@ -101,8 +101,8 @@ By combining Java best practices, modern design patterns and clean UX, this proj
 ## 📱 **Screenshots**
 <p align="center">
   <img src="./img/screen_1.jpg" width="250" height="500"/>
-  <img src="./img/screen_2.jpg" width="250" height="500"/>
-  <img src="./img/screen_3.jpg" width="250" height="500"/>
+<!--   <img src="./img/screen_2.jpg" width="250" height="500"/>
+  <img src="./img/screen_3.jpg" width="250" height="500"/> -->
 </p>
 
 ---
