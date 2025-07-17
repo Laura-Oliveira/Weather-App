@@ -28,7 +28,7 @@ class MainView : AppCompatActivity() {
     private fun fetchWeatherData() {
         CoroutineScope(Dispatchers.IO).launch {
             try {
-                val cities = listOf("London", "Paris", "Berlin")
+                val cities = listOf("London", "Lisbon", "Italy")
                 val weatherList = mutableListOf<WeatherResponse>()
 
                 for (city in cities) {

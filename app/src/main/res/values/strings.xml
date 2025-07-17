@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Today Weather</string>
+    <string name="title_weather"> Today\'s Weather </string>
 </resources>
